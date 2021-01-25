@@ -1,1 +1,1 @@
-golang中使用C语言
+python 使用ctype库 引用go
